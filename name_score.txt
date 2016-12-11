@@ -1,0 +1,9 @@
+education:{'unknown': 0, 'primary': 2, 'tertiary': 3, 'secondary': 4}
+poutcome:{'unknown': 0, 'other': 2, 'success': 3, 'failure': 4}
+default:{'yes': 1, 'no': 2}
+marital:{'single': 1, 'married': 2, 'divorced': 3}
+job:{'management': 1, 'retired': 2, 'self-employed': 3, 'unknown': 0, 'unemployed': 5, 'admin.': 7, 'technician': 11, 'entrepreneur': 8, 'services': 9, 'student': 10, 'housemaid': 6, 'blue-collar': 12}
+contact:{'unknown': 0, 'telephone': 2, 'cellular': 3}
+month:{'mar': 1, 'feb': 2, 'aug': 3, 'sep': 4, 'may': 5, 'jun': 6, 'jul': 7, 'jan': 8, 'apr': 9, 'nov': 10, 'dec': 11, 'oct': 12}
+loan:{'yes': 1, 'no': 2}
+housing:{'yes': 1, 'no': 2}
